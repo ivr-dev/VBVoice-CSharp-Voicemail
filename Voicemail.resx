@@ -1,0 +1,2140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DonePW.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+_ExtentX=2064
+_ExtentY=1482
+Pos_X=9948
+Pos_Y=58923
+Pos_XP=376
+Pos_YP=227
+ControlName=DonePW
+BlockId=1513617953
+FramePage=5
+ContainerType=5
+NumNodes=1
+Dest0BlockID=1513607296
+                                                                                                                                                                                                                                                                                                                     </value>
+  </data>
+  <data name="PWChanged.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.TermOnDTMF=0
+EntryGreeting.NumPhrase=2
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=your password is
+EntryGreeting.Phrase0.Type=262214
+EntryGreeting.Phrase0.DataExtra= 
+EntryGreeting.Phrase1.File=%GetNewPW%
+EntryGreeting.Phrase1.Data=
+EntryGreeting.Phrase1.Type=131079
+EntryGreeting.Phrase1.DataExtra=*
+HintGreeting.NumPhrase=0
+_ExtentX=1879
+_ExtentY=1720
+Pos_X=13097
+Pos_Y=55933
+Pos_XP=495
+Pos_YP=114
+ControlName=PWChanged
+BlockId=1513617943
+FramePage=5
+ContainerType=5
+NumNodes=2
+Dest0BlockID=1513617953
+Dest0.Conn=1
+Dest1BlockID=0
+FastForwardDigit=0
+RewindDigit=0
+PauseDigit=0
+FastFwdSecs=1
+RewindSecs=2
+PauseSecs=20
+LouderDigit=0
+SofterDigit=0
+TerminateOnSpeech=0
+MinSpeechTermTime=50
+</value>
+  </data>
+  <data name="SetNewPW.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+NumConditions=1
+Condition0.Name=Password
+Condition0.Data=%ReenterPW.Digits%
+Condition0.UseVB=0
+Condition0.Data2=
+_ExtentX=1852
+_ExtentY=1482
+Pos_X=10557
+Pos_Y=55933
+Pos_XP=399
+Pos_YP=114
+ControlName=SetNewPW
+BlockId=1513617922
+FramePage=5
+ContainerType=5
+NumNodes=1
+Dest0BlockID=1513617943
+Dest0.Conn=1
+AddNewRecord=0
+DataFind=CheckBox
+</value>
+  </data>
+  <data name="ReenterPW.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=3
+EntryGreeting.NumPhrase=1
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=please enter your new password again
+EntryGreeting.Phrase0.Type=262219
+EntryGreeting.Phrase0.DataExtra= 
+HintGreeting.NumPhrase=0
+NumConditions=2
+Condition0.Name=Confirm
+Condition0.Data=8
+Condition0.UseVB=1
+Condition0.Data2=
+Condition1.Name=Exit - 8
+Condition1.Data=8
+Condition1.UseVB=0
+Condition1.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=1826
+_ExtentY=2514
+Pos_X=6244
+Pos_Y=54054
+Pos_XP=236
+Pos_YP=43
+ControlName=ReenterPW
+BlockId=1513617821
+FramePage=5
+ContainerType=5
+NumNodes=4
+Dest0BlockID=1513615171
+Dest0.Conn=1
+Dest0.DestNode=1
+Dest1BlockID=1513615171
+Dest1.Conn=1
+Dest1.DestNode=1
+Dest2BlockID=1513617922
+Dest2.Conn=1
+Dest3BlockID=1513617762
+Dest3.Conn=1
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=0
+MaxSil=3
+TermDtmf=0
+RetryOnSilence=0
+useDefaultError=0
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="PWNoChg.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.TermOnDTMF=0
+EntryGreeting.NumPhrase=1
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=your password has not been changed
+EntryGreeting.Phrase0.Type=262213
+EntryGreeting.Phrase0.DataExtra= 
+HintGreeting.NumPhrase=0
+_ExtentX=1852
+_ExtentY=1720
+Pos_X=5900
+Pos_Y=57917
+Pos_XP=223
+Pos_YP=189
+ControlName=PWNoChg
+BlockId=1513617762
+FramePage=5
+ContainerType=5
+NumNodes=2
+Dest0BlockID=1513617953
+Dest0.Conn=1
+Dest1BlockID=0
+FastForwardDigit=0
+RewindDigit=0
+PauseDigit=0
+FastFwdSecs=1
+RewindSecs=2
+PauseSecs=20
+LouderDigit=0
+SofterDigit=0
+TerminateOnSpeech=0
+MinSpeechTermTime=50
+</value>
+  </data>
+  <data name="GetNewPW.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=2
+EntryGreeting.NumPhrase=1
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=please enter your new password
+EntryGreeting.Phrase0.Type=262156
+EntryGreeting.Phrase0.DataExtra= 
+HintGreeting.NumPhrase=0
+NumConditions=1
+Condition0.Name=Password
+Condition0.Data=???$
+Condition0.UseVB=0
+Condition0.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=2117
+_ExtentY=2117
+Pos_X=2223
+Pos_Y=54848
+Pos_XP=84
+Pos_YP=73
+ControlName=GetNewPW
+BlockId=1513615171
+FramePage=5
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513617762
+Dest0.Conn=1
+Dest1BlockID=0
+Dest2BlockID=1513617821
+Dest2.Conn=1
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=5
+MaxSil=3
+TermDtmf=0
+RetryOnSilence=0
+useDefaultError=0
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="RecNewGreet.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=3
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+_ExtentX=2064
+_ExtentY=2117
+Pos_X=8784
+Pos_Y=5398
+Pos_XP=332
+Pos_YP=204
+ControlName=RecNewGreet
+BlockId=1513615118
+FramePage=4
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513615074
+Dest0.Conn=1
+Dest1BlockID=1513615074
+Dest1.Conn=1
+Dest1.DestNode=1
+Dest2BlockID=1513615074
+Dest2.Conn=1
+MinTime=1
+MaxTime=30
+MaxSil=2
+AppendFile=0
+SilenceGreeting.NumPhrase=0
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+OptionsGreeting.NumPhrase=8
+OptionsGreeting.Phrase0.File=record.vap
+OptionsGreeting.Phrase0.Data=to send this message press
+OptionsGreeting.Phrase0.Type=262145
+OptionsGreeting.Phrase0.DataExtra= 
+OptionsGreeting.Phrase1.File=1
+OptionsGreeting.Phrase1.Data=
+OptionsGreeting.Phrase1.Type=131077
+OptionsGreeting.Phrase1.DataExtra= 
+OptionsGreeting.Phrase2.File=record.vap
+OptionsGreeting.Phrase2.Data=to rerecord the message from the beginning press
+OptionsGreeting.Phrase2.Type=262146
+OptionsGreeting.Phrase2.DataExtra= 
+OptionsGreeting.Phrase3.File=2
+OptionsGreeting.Phrase3.Data=
+OptionsGreeting.Phrase3.Type=131077
+OptionsGreeting.Phrase3.DataExtra= 
+OptionsGreeting.Phrase4.File=record.vap
+OptionsGreeting.Phrase4.Data=to review the message press
+OptionsGreeting.Phrase4.Type=262148
+OptionsGreeting.Phrase4.DataExtra= 
+OptionsGreeting.Phrase5.File=3
+OptionsGreeting.Phrase5.Data=
+OptionsGreeting.Phrase5.Type=131077
+OptionsGreeting.Phrase5.DataExtra= 
+OptionsGreeting.Phrase6.File=record.vap
+OptionsGreeting.Phrase6.Data=or to cancel the message press
+OptionsGreeting.Phrase6.Type=262147
+OptionsGreeting.Phrase6.DataExtra= 
+OptionsGreeting.Phrase7.File=4
+OptionsGreeting.Phrase7.Data=
+OptionsGreeting.Phrase7.Type=131077
+OptionsGreeting.Phrase7.DataExtra= 
+CancelGreeting.NumPhrase=1
+CancelGreeting.Phrase0.File=record.vap
+CancelGreeting.Phrase0.Data=message cancelled
+CancelGreeting.Phrase0.Type=262149
+CancelGreeting.Phrase0.DataExtra= 
+MsgSentGreeting.NumPhrase=1
+MsgSentGreeting.Phrase0.File=record.vap
+MsgSentGreeting.Phrase0.Data=your message has been sent
+MsgSentGreeting.Phrase0.Type=262150
+MsgSentGreeting.Phrase0.DataExtra= 
+RecordOKGreeting.NumPhrase=1
+RecordOKGreeting.Phrase0.File=record.vap
+RecordOKGreeting.Phrase0.Data=your message has been recorded
+RecordOKGreeting.Phrase0.Type=262144
+RecordOKGreeting.Phrase0.DataExtra= 
+AppendDigit=1024
+TermDigit=2
+RerecordDigit=4
+CancelDigit=16
+ReviewDigit=8
+Filename=GRT%GetMailbox%.WAV
+BeepBefore=1
+CompressSilence=0
+IgnoreDtmf=0
+RecordFormat=-1
+FileData=
+PauseDigit=0
+PauseSecs=20
+PauseGreeting.NumPhrase=0
+</value>
+  </data>
+  <data name="GreetOpts.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=3
+EntryGreeting.NumPhrase=8
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=your current greeting is
+EntryGreeting.Phrase0.Type=262145
+EntryGreeting.Phrase0.DataExtra= 
+EntryGreeting.Phrase1.File=GRT%GetMailbox%.WAV
+EntryGreeting.Phrase1.Data=
+EntryGreeting.Phrase1.Type=131073
+EntryGreeting.Phrase1.DataExtra=*
+EntryGreeting.Phrase2.File=VOICMAIL.VAP
+EntryGreeting.Phrase2.Data=to rerecord the greeting press
+EntryGreeting.Phrase2.Type=262164
+EntryGreeting.Phrase2.DataExtra= 
+EntryGreeting.Phrase3.File=vbvoice30.vap
+EntryGreeting.Phrase3.Data=one
+EntryGreeting.Phrase3.Type=262145
+EntryGreeting.Phrase3.DataExtra= 
+EntryGreeting.Phrase4.File=VOICMAIL.VAP
+EntryGreeting.Phrase4.Data=to replay the greeting press
+EntryGreeting.Phrase4.Type=262163
+EntryGreeting.Phrase4.DataExtra= 
+EntryGreeting.Phrase5.File=vbvoice30.vap
+EntryGreeting.Phrase5.Data=two
+EntryGreeting.Phrase5.Type=262146
+EntryGreeting.Phrase5.DataExtra= 
+EntryGreeting.Phrase6.File=VOICMAIL.VAP
+EntryGreeting.Phrase6.Data=or to exit press
+EntryGreeting.Phrase6.Type=262184
+EntryGreeting.Phrase6.DataExtra= 
+EntryGreeting.Phrase7.File=vbvoice30.vap
+EntryGreeting.Phrase7.Data=eight
+EntryGreeting.Phrase7.Type=262152
+EntryGreeting.Phrase7.DataExtra= 
+HintGreeting.NumPhrase=0
+NumConditions=3
+Condition0.Name=New - 1
+Condition0.Data=1
+Condition0.UseVB=0
+Condition0.Data2=
+Condition1.Name=Listen - 2
+Condition1.Data=2
+Condition1.UseVB=0
+Condition1.Data2=
+Condition2.Name=Exit - 8
+Condition2.Data=8
+Condition2.UseVB=0
+Condition2.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=2037
+_ExtentY=2117
+Pos_X=2884
+Pos_Y=4921
+Pos_XP=109
+Pos_YP=186
+ControlName=GreetOpts
+BlockId=1513615074
+FramePage=4
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513615118
+Dest0.Conn=1
+Dest1BlockID=1513615074
+Dest1.Conn=1
+Dest2BlockID=1513607296
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=0
+MaxSil=3
+TermDtmf=0
+RetryOnSilence=0
+useDefaultError=1
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="RecNewName.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=3
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+_ExtentX=2117
+_ExtentY=2117
+Pos_X=8440
+Pos_Y=1508
+Pos_XP=319
+Pos_YP=57
+ControlName=RecNewName
+BlockId=1513614788
+FramePage=4
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513606662
+Dest0.Conn=1
+Dest1BlockID=1513606662
+Dest1.Conn=1
+Dest1.DestNode=1
+Dest2BlockID=1513606662
+Dest2.Conn=1
+MinTime=1
+MaxTime=30
+MaxSil=2
+AppendFile=0
+SilenceGreeting.NumPhrase=0
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+OptionsGreeting.NumPhrase=8
+OptionsGreeting.Phrase0.File=record.vap
+OptionsGreeting.Phrase0.Data=to send this message press
+OptionsGreeting.Phrase0.Type=262145
+OptionsGreeting.Phrase0.DataExtra= 
+OptionsGreeting.Phrase1.File=1
+OptionsGreeting.Phrase1.Data=
+OptionsGreeting.Phrase1.Type=131077
+OptionsGreeting.Phrase1.DataExtra= 
+OptionsGreeting.Phrase2.File=record.vap
+OptionsGreeting.Phrase2.Data=to rerecord the message from the beginning press
+OptionsGreeting.Phrase2.Type=262146
+OptionsGreeting.Phrase2.DataExtra= 
+OptionsGreeting.Phrase3.File=2
+OptionsGreeting.Phrase3.Data=
+OptionsGreeting.Phrase3.Type=131077
+OptionsGreeting.Phrase3.DataExtra= 
+OptionsGreeting.Phrase4.File=record.vap
+OptionsGreeting.Phrase4.Data=to review the message press
+OptionsGreeting.Phrase4.Type=262148
+OptionsGreeting.Phrase4.DataExtra= 
+OptionsGreeting.Phrase5.File=3
+OptionsGreeting.Phrase5.Data=
+OptionsGreeting.Phrase5.Type=131077
+OptionsGreeting.Phrase5.DataExtra= 
+OptionsGreeting.Phrase6.File=record.vap
+OptionsGreeting.Phrase6.Data=or to cancel the message press
+OptionsGreeting.Phrase6.Type=262147
+OptionsGreeting.Phrase6.DataExtra= 
+OptionsGreeting.Phrase7.File=4
+OptionsGreeting.Phrase7.Data=
+OptionsGreeting.Phrase7.Type=131077
+OptionsGreeting.Phrase7.DataExtra= 
+CancelGreeting.NumPhrase=1
+CancelGreeting.Phrase0.File=record.vap
+CancelGreeting.Phrase0.Data=message cancelled
+CancelGreeting.Phrase0.Type=262149
+CancelGreeting.Phrase0.DataExtra= 
+MsgSentGreeting.NumPhrase=1
+MsgSentGreeting.Phrase0.File=record.vap
+MsgSentGreeting.Phrase0.Data=your message has been sent
+MsgSentGreeting.Phrase0.Type=262150
+MsgSentGreeting.Phrase0.DataExtra= 
+RecordOKGreeting.NumPhrase=1
+RecordOKGreeting.Phrase0.File=record.vap
+RecordOKGreeting.Phrase0.Data=your message has been recorded
+RecordOKGreeting.Phrase0.Type=262144
+RecordOKGreeting.Phrase0.DataExtra= 
+AppendDigit=1024
+TermDigit=2
+RerecordDigit=4
+CancelDigit=16
+ReviewDigit=8
+Filename=NAM%GetMailbox%.WAV
+BeepBefore=1
+CompressSilence=0
+IgnoreDtmf=0
+RecordFormat=-1
+FileData=
+PauseDigit=0
+PauseSecs=20
+PauseGreeting.NumPhrase=0
+</value>
+  </data>
+  <data name="playMsgs1.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=3
+EntryGreeting.NumPhrase=3
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=you have
+EntryGreeting.Phrase0.Type=262160
+EntryGreeting.Phrase0.DataExtra= 
+EntryGreeting.Phrase1.File=%#this.NumNewMessages%
+EntryGreeting.Phrase1.Data=
+EntryGreeting.Phrase1.Type=131077
+EntryGreeting.Phrase1.DataExtra= 
+EntryGreeting.Phrase2.File=playmsgs.vap
+EntryGreeting.Phrase2.Data=new messages
+EntryGreeting.Phrase2.Type=262171
+EntryGreeting.Phrase2.DataExtra= 
+HintGreeting.NumPhrase=0
+_ExtentX=1588
+_ExtentY=2011
+Pos_X=11113
+Pos_Y=58103
+Pos_XP=420
+Pos_YP=196
+ControlName=playMsgs1
+BlockId=1513612961
+FramePage=3
+ContainerType=5
+NumNodes=2
+Dest0BlockID=1513607296
+Dest0.Conn=1
+Dest1BlockID=1513607296
+Dest1.Conn=1
+OptionsGreeting.NumPhrase=13
+OptionsGreeting.Phrase0.File=playmsgs.vap
+OptionsGreeting.Phrase0.Data=to hear the next message press
+OptionsGreeting.Phrase0.Type=262157
+OptionsGreeting.Phrase0.DataExtra= 
+OptionsGreeting.Phrase1.File=1
+OptionsGreeting.Phrase1.Data=
+OptionsGreeting.Phrase1.Type=131079
+OptionsGreeting.Phrase1.DataExtra= 
+OptionsGreeting.Phrase2.File=playmsgs.vap
+OptionsGreeting.Phrase2.Data=to delete the message press
+OptionsGreeting.Phrase2.Type=262160
+OptionsGreeting.Phrase2.DataExtra= 
+OptionsGreeting.Phrase3.File=2
+OptionsGreeting.Phrase3.Data=
+OptionsGreeting.Phrase3.Type=131079
+OptionsGreeting.Phrase3.DataExtra= 
+OptionsGreeting.Phrase4.File=playmsgs.vap
+OptionsGreeting.Phrase4.Data=to save the message as new press
+OptionsGreeting.Phrase4.Type=262161
+OptionsGreeting.Phrase4.DataExtra= 
+OptionsGreeting.Phrase5.File=3
+OptionsGreeting.Phrase5.Data=
+OptionsGreeting.Phrase5.Type=131079
+OptionsGreeting.Phrase5.DataExtra= 
+OptionsGreeting.Phrase6.File=playmsgs.vap
+OptionsGreeting.Phrase6.Data=to replay the message press
+OptionsGreeting.Phrase6.Type=262156
+OptionsGreeting.Phrase6.DataExtra= 
+OptionsGreeting.Phrase7.File=4
+OptionsGreeting.Phrase7.Data=
+OptionsGreeting.Phrase7.Type=131079
+OptionsGreeting.Phrase7.DataExtra= 
+OptionsGreeting.Phrase8.File=playmsgs.vap
+OptionsGreeting.Phrase8.Data=to hear the time and date of the message press
+OptionsGreeting.Phrase8.Type=262158
+OptionsGreeting.Phrase8.DataExtra= 
+OptionsGreeting.Phrase9.File=5
+OptionsGreeting.Phrase9.Data=
+OptionsGreeting.Phrase9.Type=131079
+OptionsGreeting.Phrase9.DataExtra= 
+OptionsGreeting.Phrase10.File=playmsgs.vap
+OptionsGreeting.Phrase10.Data=or to exit press
+OptionsGreeting.Phrase10.Type=262162
+OptionsGreeting.Phrase10.DataExtra= 
+OptionsGreeting.Phrase11.File=*
+OptionsGreeting.Phrase11.Data=
+OptionsGreeting.Phrase11.Type=131079
+OptionsGreeting.Phrase11.DataExtra= 
+OptionsGreeting.Phrase12.File=playmsgs.vap
+OptionsGreeting.Phrase12.Data=2 secs silence
+OptionsGreeting.Phrase12.Type=262175
+OptionsGreeting.Phrase12.DataExtra= 
+InfoGreeting.NumPhrase=1
+InfoGreeting.Phrase0.File=%#this.MsgFile%
+InfoGreeting.Phrase0.Data=Day,MonthName
+InfoGreeting.Phrase0.Type=131082
+InfoGreeting.Phrase0.DataExtra= 
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+NoDigitsGreeting.NumPhrase=0
+MessageGreeting.NumPhrase=4
+MessageGreeting.Phrase0.File=playmsgs.vap
+MessageGreeting.Phrase0.Data=message
+MessageGreeting.Phrase0.Type=262151
+MessageGreeting.Phrase0.DataExtra= 
+MessageGreeting.Phrase1.File=%#this.MsgIndex%
+MessageGreeting.Phrase1.Data=0
+MessageGreeting.Phrase1.Type=131077
+MessageGreeting.Phrase1.DataExtra= 
+MessageGreeting.Phrase2.File=playmsgs.vap
+MessageGreeting.Phrase2.Data=%#this.MsgType%
+MessageGreeting.Phrase2.Type=131089
+MessageGreeting.Phrase2.DataExtra= 
+MessageGreeting.Phrase3.File=%#this.MsgFile%
+MessageGreeting.Phrase3.Data=
+MessageGreeting.Phrase3.Type=131073
+MessageGreeting.Phrase3.DataExtra= 
+MailboxDirectory=BOX%GetMailbox.Digits%\
+SaveAsNewDigit=8
+InfoDigit=32
+ReviewDigit=16
+ForwardDigit=4096
+ExitDigit=2048
+FastForwardDigit=128
+RewindDigit=256
+PauseDigit=512
+DeleteDigit=4
+SkipDigit=2
+MaxSil=2
+FastFwdSecs=2
+RewindSecs=4
+LouderDigit =0
+SofterDigit =0
+SortDescending =0
+ClearDigits=1
+</value>
+  </data>
+  <data name="SubscriberMenu.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=3
+EntryGreeting.NumPhrase=9
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=to listen to your messages press 1
+EntryGreeting.Phrase0.Type=262177
+EntryGreeting.Phrase0.DataExtra= 
+EntryGreeting.Phrase1.File=VOICMAIL.VAP
+EntryGreeting.Phrase1.Data=to record your name press
+EntryGreeting.Phrase1.Type=262198
+EntryGreeting.Phrase1.DataExtra= 
+EntryGreeting.Phrase2.File=vbvoice30.vap
+EntryGreeting.Phrase2.Data=two
+EntryGreeting.Phrase2.Type=262146
+EntryGreeting.Phrase2.DataExtra= 
+EntryGreeting.Phrase3.File=VOICMAIL.VAP
+EntryGreeting.Phrase3.Data=to rerecord the greeting press
+EntryGreeting.Phrase3.Type=262164
+EntryGreeting.Phrase3.DataExtra= 
+EntryGreeting.Phrase4.File=vbvoice30.vap
+EntryGreeting.Phrase4.Data=three
+EntryGreeting.Phrase4.Type=262147
+EntryGreeting.Phrase4.DataExtra= 
+EntryGreeting.Phrase5.File=VOICMAIL.VAP
+EntryGreeting.Phrase5.Data=to change your password press
+EntryGreeting.Phrase5.Type=262200
+EntryGreeting.Phrase5.DataExtra= 
+EntryGreeting.Phrase6.File=vbvoice30.vap
+EntryGreeting.Phrase6.Data=five
+EntryGreeting.Phrase6.Type=262149
+EntryGreeting.Phrase6.DataExtra= 
+EntryGreeting.Phrase7.File=VOICMAIL.VAP
+EntryGreeting.Phrase7.Data=or to exit press
+EntryGreeting.Phrase7.Type=262184
+EntryGreeting.Phrase7.DataExtra= 
+EntryGreeting.Phrase8.File=vbvoice30.vap
+EntryGreeting.Phrase8.Data=eight
+EntryGreeting.Phrase8.Type=262152
+EntryGreeting.Phrase8.DataExtra= 
+HintGreeting.NumPhrase=0
+NumConditions=5
+Condition0.Name=Msgs-1
+Condition0.Data=1
+Condition0.UseVB=0
+Condition0.Data2=
+Condition1.Name=Name-2
+Condition1.Data=2
+Condition1.UseVB=0
+Condition1.Data2=
+Condition2.Name=Greet-3
+Condition2.Data=3
+Condition2.UseVB=0
+Condition2.Data2=
+Condition3.Name=PW-5
+Condition3.Data=5
+Condition3.UseVB=0
+Condition3.Data2=
+Condition4.Name=Exit-8
+Condition4.Data=8
+Condition4.UseVB=0
+Condition4.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=2302
+_ExtentY=2910
+Pos_X=5980
+Pos_Y=58341
+Pos_XP=226
+Pos_YP=205
+ControlName=SubscriberMenu
+BlockId=1513607296
+FramePage=3
+ContainerType=5
+NumNodes=5
+Dest0BlockID=1513612961
+Dest0.Conn=1
+Dest1BlockID=1513606662
+Dest2BlockID=1513615074
+Dest3BlockID=1513615171
+Dest4BlockID=1513370232
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=0
+MaxSil=3
+TermDtmf=0
+RetryOnSilence=0
+useDefaultError=1
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="CheckPW.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=3
+EntryGreeting.NumPhrase=1
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=please enter your password
+EntryGreeting.Phrase0.Type=262155
+EntryGreeting.Phrase0.DataExtra= 
+HintGreeting.NumPhrase=0
+NumConditions=1
+Condition0.Name=Password
+Condition0.Data=%CheckBox.Password%
+Condition0.UseVB=0
+Condition0.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=2117
+_ExtentY=2011
+Pos_X=11853
+Pos_Y=55086
+Pos_XP=448
+Pos_YP=82
+ControlName=CheckPW
+BlockId=1513607052
+FramePage=3
+ContainerType=5
+NumNodes=1
+Dest0BlockID=1513607296
+Dest0.Conn=1
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=0
+MaxSil=3
+TermDtmf=0
+RetryOnSilence=0
+useDefaultError=1
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="CheckBox.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+_ExtentX=1931
+_ExtentY=2117
+Pos_X=5980
+Pos_Y=54980
+Pos_XP=226
+Pos_YP=78
+ControlName=CheckBox
+BlockId=1513607044
+FramePage=3
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513607052
+Dest0.Conn=1
+Dest1BlockID=1513606565
+Dest1.Conn=1
+Dest2BlockID=1513606565
+Dest2.Conn=1
+AlphaMatch=0
+MatchAllChars=1
+GetRecordCount=0
+MatchType=0
+MatchField=
+MatchData=
+ODBCtable=Subscriber_Information
+Filter=WHERE Mailbox = '%GetMailbox.Digits%'
+UseGlobalBookmark=0
+DBType=1
+RecSetType=0
+ODBCConnect=ODBC;DSN=SUBSCR;DBQ=T:\VOICEMAIL\VBVOICE-CSHARP-VOICEMAIL\VOICEMAIL\BIN\Debug\Subscriber.mdb;DriverId=25;FIL=MS Access;MaxBufferSize=2048;PageTimeout=5;
+Filter=WHERE Mailbox = '%GetMailbox.Digits%'
+ReadOnly=0
+NumFields=1
+Field0=Password
+ReadOnly=0
+</value>
+  </data>
+  <data name="NameOpts.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=3
+EntryGreeting.NumPhrase=8
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=your name is currently recorded as
+EntryGreeting.Phrase0.Type=262146
+EntryGreeting.Phrase0.DataExtra= 
+EntryGreeting.Phrase1.File=NAM%GetMailbox%.WAV
+EntryGreeting.Phrase1.Data=
+EntryGreeting.Phrase1.Type=131073
+EntryGreeting.Phrase1.DataExtra=*
+EntryGreeting.Phrase2.File=VOICMAIL.VAP
+EntryGreeting.Phrase2.Data=to rerecord the greeting press
+EntryGreeting.Phrase2.Type=262164
+EntryGreeting.Phrase2.DataExtra= 
+EntryGreeting.Phrase3.File=vbvoice30.vap
+EntryGreeting.Phrase3.Data=one
+EntryGreeting.Phrase3.Type=262145
+EntryGreeting.Phrase3.DataExtra= 
+EntryGreeting.Phrase4.File=VOICMAIL.VAP
+EntryGreeting.Phrase4.Data=to replay your name press
+EntryGreeting.Phrase4.Type=262187
+EntryGreeting.Phrase4.DataExtra= 
+EntryGreeting.Phrase5.File=vbvoice30.vap
+EntryGreeting.Phrase5.Data=two
+EntryGreeting.Phrase5.Type=262146
+EntryGreeting.Phrase5.DataExtra= 
+EntryGreeting.Phrase6.File=VOICMAIL.VAP
+EntryGreeting.Phrase6.Data=or to exit press
+EntryGreeting.Phrase6.Type=262184
+EntryGreeting.Phrase6.DataExtra= 
+EntryGreeting.Phrase7.File=vbvoice30.vap
+EntryGreeting.Phrase7.Data=eight
+EntryGreeting.Phrase7.Type=262152
+EntryGreeting.Phrase7.DataExtra= 
+HintGreeting.NumPhrase=0
+NumConditions=3
+Condition0.Name=New - 1
+Condition0.Data=1
+Condition0.UseVB=0
+Condition0.Data2=
+Condition1.Name=Listen-2
+Condition1.Data=2
+Condition1.UseVB=0
+Condition1.Data2=
+Condition2.Name=Exit-8
+Condition2.Data=8
+Condition2.UseVB=0
+Condition2.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=1879
+_ExtentY=2117
+Pos_X=2858
+Pos_Y=1296
+Pos_XP=108
+Pos_YP=49
+ControlName=NameOpts
+BlockId=1513606662
+FramePage=4
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513614788
+Dest0.Conn=1
+Dest1BlockID=1513606662
+Dest1.Conn=1
+Dest2BlockID=1513607296
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=0
+MaxSil=3
+TermDtmf=0
+RetryOnSilence=95
+useDefaultError=1
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="GetMailbox.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=3
+EntryGreeting.NumPhrase=1
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=please enter your box number
+EntryGreeting.Phrase0.Type=262233
+EntryGreeting.Phrase0.DataExtra= 
+HintGreeting.NumPhrase=0
+NumConditions=1
+Condition0.Name=Mailbox
+Condition0.Data=100-999
+Condition0.UseVB=0
+Condition0.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=1852
+_ExtentY=2011
+Pos_X=2249
+Pos_Y=54980
+Pos_XP=85
+Pos_YP=78
+ControlName=GetMailbox
+BlockId=1513606565
+FramePage=3
+ContainerType=5
+NumNodes=1
+Dest0BlockID=1513607044
+Dest0.Conn=1
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=0
+MaxSil=3
+TermDtmf=0
+RetryOnSilence=95
+useDefaultError=1
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="WaitBusy.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=3
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+_ExtentX=1455
+_ExtentY=1482
+Pos_X=11298
+Pos_Y=60008
+Pos_XP=427
+Pos_YP=268
+ControlName=WaitBusy
+BlockId=1513606208
+FramePage=2
+ContainerType=5
+NumNodes=1
+Dest0BlockID=1513371061
+Dest0.Conn=1
+MusicGreeting.TermOnDTMF=0
+MusicGreeting.NumPhrase=1
+MusicGreeting.Phrase0.File=MUSIC.WAV
+MusicGreeting.Phrase0.Data=
+MusicGreeting.Phrase0.Type=131071
+MusicGreeting.Phrase0.DataExtra= 
+DelayTime=20
+IDelayType=1
+HaltDigit=0
+TerminateOnCall=0
+DelayTimeUnit=0
+TerminateOnVoice=0
+ControlNameBase=Delay
+</value>
+  </data>
+  <data name="TakeMessage.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=2
+EntryGreeting.NumPhrase=1
+EntryGreeting.Phrase0.File=GRT%MainMenu%.WAV
+EntryGreeting.Phrase0.Data=
+EntryGreeting.Phrase0.Type=131073
+EntryGreeting.Phrase0.DataExtra=*
+HintGreeting.NumPhrase=0
+_ExtentX=2064
+_ExtentY=2117
+Pos_X=11298
+Pos_Y=57732
+Pos_XP=427
+Pos_YP=182
+ControlName=TakeMessage
+BlockId=1513606181
+FramePage=2
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513606139
+Dest0.Conn=1
+Dest1BlockID=1513606139
+Dest1.Conn=1
+Dest2BlockID=1513606139
+Dest2.Conn=1
+MinTime=0
+MaxTime=30
+MaxSil=3
+AppendFile=0
+SilenceGreeting.NumPhrase=0
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+OptionsGreeting.NumPhrase=8
+OptionsGreeting.Phrase0.File=record.vap
+OptionsGreeting.Phrase0.Data=to send this message press
+OptionsGreeting.Phrase0.Type=262145
+OptionsGreeting.Phrase0.DataExtra= 
+OptionsGreeting.Phrase1.File=1
+OptionsGreeting.Phrase1.Data=
+OptionsGreeting.Phrase1.Type=131077
+OptionsGreeting.Phrase1.DataExtra= 
+OptionsGreeting.Phrase2.File=record.vap
+OptionsGreeting.Phrase2.Data=to rerecord the message from the beginning press
+OptionsGreeting.Phrase2.Type=262146
+OptionsGreeting.Phrase2.DataExtra= 
+OptionsGreeting.Phrase3.File=2
+OptionsGreeting.Phrase3.Data=
+OptionsGreeting.Phrase3.Type=131077
+OptionsGreeting.Phrase3.DataExtra= 
+OptionsGreeting.Phrase4.File=record.vap
+OptionsGreeting.Phrase4.Data=to review the message press
+OptionsGreeting.Phrase4.Type=262148
+OptionsGreeting.Phrase4.DataExtra= 
+OptionsGreeting.Phrase5.File=3
+OptionsGreeting.Phrase5.Data=
+OptionsGreeting.Phrase5.Type=131077
+OptionsGreeting.Phrase5.DataExtra= 
+OptionsGreeting.Phrase6.File=record.vap
+OptionsGreeting.Phrase6.Data=or to cancel the message press
+OptionsGreeting.Phrase6.Type=262147
+OptionsGreeting.Phrase6.DataExtra= 
+OptionsGreeting.Phrase7.File=4
+OptionsGreeting.Phrase7.Data=
+OptionsGreeting.Phrase7.Type=131077
+OptionsGreeting.Phrase7.DataExtra= 
+CancelGreeting.NumPhrase=1
+CancelGreeting.Phrase0.File=record.vap
+CancelGreeting.Phrase0.Data=message cancelled
+CancelGreeting.Phrase0.Type=262149
+CancelGreeting.Phrase0.DataExtra= 
+MsgSentGreeting.NumPhrase=1
+MsgSentGreeting.Phrase0.File=record.vap
+MsgSentGreeting.Phrase0.Data=your message has been sent
+MsgSentGreeting.Phrase0.Type=262150
+MsgSentGreeting.Phrase0.DataExtra= 
+RecordOKGreeting.NumPhrase=1
+RecordOKGreeting.Phrase0.File=record.vap
+RecordOKGreeting.Phrase0.Data=your message has been recorded
+RecordOKGreeting.Phrase0.Type=262144
+RecordOKGreeting.Phrase0.DataExtra= 
+AppendDigit=0
+TermDigit=2
+RerecordDigit=4
+CancelDigit=256
+ReviewDigit=8
+Filename=BOX%MainMenu.Digits%\*.vnm
+BeepBefore=1
+CompressSilence=0
+IgnoreDtmf=0
+RecordFormat=-1
+FileData=
+PauseDigit=0
+PauseSecs=20
+PauseGreeting.NumPhrase=0
+</value>
+  </data>
+  <data name="AskHold.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=2
+EntryGreeting.NumPhrase=8
+EntryGreeting.Phrase0.File=NAM%MainMenu%.wav
+EntryGreeting.Phrase0.Data=
+EntryGreeting.Phrase0.Type=131073
+EntryGreeting.Phrase0.DataExtra=*
+EntryGreeting.Phrase1.File=VOICMAIL.VAP
+EntryGreeting.Phrase1.Data=is busy, you are number
+EntryGreeting.Phrase1.Type=262169
+EntryGreeting.Phrase1.DataExtra= 
+EntryGreeting.Phrase2.File=vbvoice30.vap
+EntryGreeting.Phrase2.Data=one
+EntryGreeting.Phrase2.Type=262145
+EntryGreeting.Phrase2.DataExtra= 
+EntryGreeting.Phrase3.File=VOICMAIL.VAP
+EntryGreeting.Phrase3.Data=in line
+EntryGreeting.Phrase3.Type=262168
+EntryGreeting.Phrase3.DataExtra= 
+EntryGreeting.Phrase4.File=VOICMAIL.VAP
+EntryGreeting.Phrase4.Data=to remain to hold press
+EntryGreeting.Phrase4.Type=262166
+EntryGreeting.Phrase4.DataExtra= 
+EntryGreeting.Phrase5.File=vbvoice30.vap
+EntryGreeting.Phrase5.Data=one
+EntryGreeting.Phrase5.Type=262145
+EntryGreeting.Phrase5.DataExtra= 
+EntryGreeting.Phrase6.File=VOICMAIL.VAP
+EntryGreeting.Phrase6.Data=or to leave a message press
+EntryGreeting.Phrase6.Type=262167
+EntryGreeting.Phrase6.DataExtra= 
+EntryGreeting.Phrase7.File=vbvoice30.vap
+EntryGreeting.Phrase7.Data=two
+EntryGreeting.Phrase7.Type=262146
+EntryGreeting.Phrase7.DataExtra= 
+HintGreeting.NumPhrase=0
+NumConditions=2
+Condition0.Name=1
+Condition0.Data=1
+Condition0.UseVB=0
+Condition0.Data2=
+Condition1.Name=2
+Condition1.Data=2
+Condition1.UseVB=0
+Condition1.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=1402
+_ExtentY=2011
+Pos_X=7408
+Pos_Y=58764
+Pos_XP=280
+Pos_YP=221
+ControlName=AskHold
+BlockId=1513606148
+FramePage=2
+ContainerType=5
+NumNodes=2
+Dest0BlockID=1513606208
+Dest0.Conn=1
+Dest1BlockID=1513606181
+Dest1.Conn=1
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=0
+MaxSil=3
+TermDtmf=0
+RetryOnSilence=0
+useDefaultError=1
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="Goodbye.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.TermOnDTMF=0
+EntryGreeting.NumPhrase=1
+EntryGreeting.Phrase0.File=vbvoice30.vap
+EntryGreeting.Phrase0.Data=goodbye
+EntryGreeting.Phrase0.Type=262436
+EntryGreeting.Phrase0.DataExtra= 
+HintGreeting.NumPhrase=0
+_ExtentX=1402
+_ExtentY=1482
+Pos_X=14473
+Pos_Y=58076
+Pos_XP=547
+Pos_YP=195
+ControlName=Goodbye
+BlockId=1513606139
+FramePage=2
+ContainerType=5
+</value>
+  </data>
+  <data name="NoGoodBye.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.TermOnDTMF=0
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+_ExtentX=1799
+_ExtentY=1482
+Pos_X=14314
+Pos_Y=54451
+Pos_XP=541
+Pos_YP=58
+ControlName=NoGoodBye
+BlockId=1513606034
+FramePage=2
+ContainerType=5
+</value>
+  </data>
+  <data name="Flash.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+NumConditions=0
+_ExtentX=2408
+_ExtentY=1720
+Pos_X=9499
+Pos_Y=55457
+Pos_XP=359
+Pos_YP=96
+ControlName=Flash
+BlockId=1513371170
+FramePage=2
+ContainerType=5
+NumNodes=2
+Dest0BlockID=1513606181
+Dest0.Conn=1
+Dest1BlockID=1513606034
+Dest1.Conn=1
+CustomCPL=
+DialNumber=!,
+WaitForDialtone=1
+DetectAnsMachine=0
+DetectFaxTone=0
+DoTransfer=0
+UseDatabase=0
+DataFind=ValidateXfer
+</value>
+  </data>
+  <data name="Announce.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=0
+EntryGreeting.NumPhrase=3
+EntryGreeting.Phrase0.File=NAM%MainMenu%.WAV
+EntryGreeting.Phrase0.Data=
+EntryGreeting.Phrase0.Type=131073
+EntryGreeting.Phrase0.DataExtra=*
+EntryGreeting.Phrase1.File=VOICMAIL.VAP
+EntryGreeting.Phrase1.Data=call from
+EntryGreeting.Phrase1.Type=262237
+EntryGreeting.Phrase1.DataExtra= 
+EntryGreeting.Phrase2.File=%CallerName%
+EntryGreeting.Phrase2.Data=
+EntryGreeting.Phrase2.Type=131073
+EntryGreeting.Phrase2.DataExtra=*
+HintGreeting.NumPhrase=0
+NumConditions=1
+Condition0.Name=AnyKey
+Condition0.Data=$
+Condition0.UseVB=0
+Condition0.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=1852
+_ExtentY=2117
+Pos_X=6509
+Pos_Y=54293
+Pos_XP=246
+Pos_YP=52
+ControlName=Announce
+BlockId=1513371104
+FramePage=2
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513606034
+Dest0.Conn=1
+Dest1BlockID=1513606034
+Dest1.Conn=1
+Dest2BlockID=1513371170
+Dest2.Conn=1
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=0
+MaxSil=2
+TermDtmf=0
+RetryOnSilence=0
+useDefaultError=0
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="TransferCall.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.NumPhrase=2
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=please hold while I transfer your call to
+EntryGreeting.Phrase0.Type=262239
+EntryGreeting.Phrase0.DataExtra= 
+EntryGreeting.Phrase1.File=NAM%MainMenu%.wav
+EntryGreeting.Phrase1.Data=
+EntryGreeting.Phrase1.Type=131073
+EntryGreeting.Phrase1.DataExtra=*
+HintGreeting.NumPhrase=0
+NumConditions=0
+_ExtentX=2408
+_ExtentY=3704
+Pos_X=2593
+Pos_Y=56780
+Pos_XP=98
+Pos_YP=146
+ControlName=TransferCall
+BlockId=1513371061
+FramePage=2
+ContainerType=5
+NumNodes=7
+Dest0BlockID=1513606181
+Dest0.Conn=1
+Dest1BlockID=1513371104
+Dest1.Conn=1
+Dest2BlockID=1513606181
+Dest2.Conn=1
+Dest3BlockID=1513606148
+Dest3.Conn=1
+Dest4BlockID=1513606181
+Dest4.Conn=1
+Dest5BlockID=1513606181
+Dest5.Conn=1
+Dest6BlockID=1513606181
+Dest6.Conn=1
+CustomCPL=
+DialNumber=S%ValidateXfer.Extension%
+WaitForDialtone=1
+DetectAnsMachine=0
+DetectFaxTone=0
+DoTransfer=1
+UseDatabase=0
+DataFind=
+</value>
+  </data>
+  <data name="CallerName.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=1
+EntryGreeting.NumPhrase=1
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=please say your name
+EntryGreeting.Phrase0.Type=262243
+EntryGreeting.Phrase0.DataExtra= 
+HintGreeting.NumPhrase=0
+_ExtentX=1693
+_ExtentY=2117
+Pos_X=2302
+Pos_Y=53816
+Pos_XP=87
+Pos_YP=34
+ControlName=CallerName
+BlockId=1513370962
+FramePage=2
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513371061
+Dest0.Conn=1
+Dest1BlockID=1513371061
+Dest1.Conn=1
+Dest2BlockID=1513371061
+Dest2.Conn=1
+MinTime=1
+MaxTime=5
+MaxSil=4
+AppendFile=0
+SilenceGreeting.NumPhrase=0
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+OptionsGreeting.NumPhrase=8
+OptionsGreeting.Phrase0.File=record.vap
+OptionsGreeting.Phrase0.Data=to send this message press
+OptionsGreeting.Phrase0.Type=262145
+OptionsGreeting.Phrase0.DataExtra= 
+OptionsGreeting.Phrase1.File=1
+OptionsGreeting.Phrase1.Data=
+OptionsGreeting.Phrase1.Type=131077
+OptionsGreeting.Phrase1.DataExtra= 
+OptionsGreeting.Phrase2.File=record.vap
+OptionsGreeting.Phrase2.Data=to rerecord the message from the beginning press
+OptionsGreeting.Phrase2.Type=262146
+OptionsGreeting.Phrase2.DataExtra= 
+OptionsGreeting.Phrase3.File=2
+OptionsGreeting.Phrase3.Data=
+OptionsGreeting.Phrase3.Type=131077
+OptionsGreeting.Phrase3.DataExtra= 
+OptionsGreeting.Phrase4.File=record.vap
+OptionsGreeting.Phrase4.Data=to review the message press
+OptionsGreeting.Phrase4.Type=262148
+OptionsGreeting.Phrase4.DataExtra= 
+OptionsGreeting.Phrase5.File=3
+OptionsGreeting.Phrase5.Data=
+OptionsGreeting.Phrase5.Type=131077
+OptionsGreeting.Phrase5.DataExtra= 
+OptionsGreeting.Phrase6.File=record.vap
+OptionsGreeting.Phrase6.Data=or to cancel the message press
+OptionsGreeting.Phrase6.Type=262147
+OptionsGreeting.Phrase6.DataExtra= 
+OptionsGreeting.Phrase7.File=4
+OptionsGreeting.Phrase7.Data=
+OptionsGreeting.Phrase7.Type=131077
+OptionsGreeting.Phrase7.DataExtra= 
+CancelGreeting.NumPhrase=1
+CancelGreeting.Phrase0.File=record.vap
+CancelGreeting.Phrase0.Data=message cancelled
+CancelGreeting.Phrase0.Type=262149
+CancelGreeting.Phrase0.DataExtra= 
+MsgSentGreeting.NumPhrase=1
+MsgSentGreeting.Phrase0.File=record.vap
+MsgSentGreeting.Phrase0.Data=your message has been sent
+MsgSentGreeting.Phrase0.Type=262150
+MsgSentGreeting.Phrase0.DataExtra= 
+RecordOKGreeting.NumPhrase=1
+RecordOKGreeting.Phrase0.File=record.vap
+RecordOKGreeting.Phrase0.Data=your message has been recorded
+RecordOKGreeting.Phrase0.Type=262144
+RecordOKGreeting.Phrase0.DataExtra= 
+AppendDigit=1024
+TermDigit=2
+RerecordDigit=4
+CancelDigit=16
+ReviewDigit=8
+Filename=rname%channel%.wav
+BeepBefore=1
+CompressSilence=0
+IgnoreDtmf=0
+RecordFormat=-1
+FileData=
+PauseDigit=0
+PauseSecs=20
+PauseGreeting.NumPhrase=0
+</value>
+  </data>
+  <data name="NoMoreNames.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.TermOnDTMF=0
+EntryGreeting.NumPhrase=1
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=there are no more names that match those letters
+EntryGreeting.Phrase0.Type=262192
+EntryGreeting.Phrase0.DataExtra= 
+HintGreeting.NumPhrase=0
+_ExtentX=2143
+_ExtentY=1720
+Pos_X=7832
+Pos_Y=59584
+Pos_XP=296
+Pos_YP=252
+ControlName=NoMoreNames
+BlockId=1513370890
+FramePage=1
+ContainerType=5
+NumNodes=2
+Dest0BlockID=1513370592
+Dest0.Conn=1
+Dest1BlockID=0
+FastForwardDigit=0
+RewindDigit=0
+PauseDigit=0
+FastFwdSecs=1
+RewindSecs=2
+PauseSecs=20
+LouderDigit=0
+SofterDigit=0
+TerminateOnSpeech=0
+MinSpeechTermTime=50
+</value>
+  </data>
+  <data name="NoNames.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.TermOnDTMF=0
+EntryGreeting.NumPhrase=1
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=there are no names that match those letters
+EntryGreeting.Phrase0.Type=262191
+EntryGreeting.Phrase0.DataExtra= 
+HintGreeting.NumPhrase=0
+_ExtentX=1852
+_ExtentY=1720
+Pos_X=7832
+Pos_Y=57229
+Pos_XP=296
+Pos_YP=163
+ControlName=NoNames
+BlockId=1513370885
+FramePage=1
+ContainerType=5
+NumNodes=2
+Dest0BlockID=1513370592
+Dest0.Conn=1
+Dest1BlockID=0
+FastForwardDigit=0
+RewindDigit=0
+PauseDigit=0
+FastFwdSecs=1
+RewindSecs=2
+PauseSecs=20
+LouderDigit=0
+SofterDigit=0
+TerminateOnSpeech=0
+MinSpeechTermTime=50
+</value>
+  </data>
+  <data name="SayExtension.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.TermOnDTMF=0
+EntryGreeting.NumPhrase=2
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=the number is
+EntryGreeting.Phrase0.Type=262235
+EntryGreeting.Phrase0.DataExtra= 
+EntryGreeting.Phrase1.File=%FindName.Extension%
+EntryGreeting.Phrase1.Data=
+EntryGreeting.Phrase1.Type=131077
+EntryGreeting.Phrase1.DataExtra=*
+HintGreeting.NumPhrase=0
+_ExtentX=1958
+_ExtentY=1720
+Pos_X=11298
+Pos_Y=54663
+Pos_XP=427
+Pos_YP=66
+ControlName=SayExtension
+BlockId=1513370848
+FramePage=1
+ContainerType=5
+NumNodes=2
+Dest0BlockID=1513370388
+Dest1BlockID=0
+FastForwardDigit=0
+RewindDigit=0
+PauseDigit=0
+FastFwdSecs=1
+RewindSecs=2
+PauseSecs=20
+LouderDigit=0
+SofterDigit=0
+TerminateOnSpeech=0
+MinSpeechTermTime=50
+</value>
+  </data>
+  <data name="CheckName.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=0
+EntryGreeting.NumPhrase=3
+EntryGreeting.Phrase0.File=NAM%FindName.Mailbox%.WAV
+EntryGreeting.Phrase0.Data=
+EntryGreeting.Phrase0.Type=131073
+EntryGreeting.Phrase0.DataExtra=*
+EntryGreeting.Phrase1.File=VOICMAIL.VAP
+EntryGreeting.Phrase1.Data=if this is the person you want, press
+EntryGreeting.Phrase1.Type=262147
+EntryGreeting.Phrase1.DataExtra= 
+EntryGreeting.Phrase2.File=vbvoice30.vap
+EntryGreeting.Phrase2.Data=one
+EntryGreeting.Phrase2.Type=262145
+EntryGreeting.Phrase2.DataExtra= 
+HintGreeting.NumPhrase=0
+NumConditions=1
+Condition0.Name=1
+Condition0.Data=1
+Condition0.UseVB=0
+Condition0.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=1826
+_ExtentY=2117
+Pos_X=7832
+Pos_Y=54451
+Pos_XP=296
+Pos_YP=58
+ControlName=CheckName
+BlockId=1513370784
+FramePage=1
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513370776
+Dest0.Conn=1
+Dest0.DestNode=1
+Dest1BlockID=1513370776
+Dest1.Conn=1
+Dest1.DestNode=1
+Dest2BlockID=1513370848
+Dest2.Conn=1
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=0
+MaxSil=5
+TermDtmf=0
+RetryOnSilence=0
+useDefaultError=0
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="FindName.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+_ExtentX=1931
+_ExtentY=2117
+Pos_X=5080
+Pos_Y=54451
+Pos_XP=192
+Pos_YP=58
+ControlName=FindName
+BlockId=1513370776
+FramePage=1
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513370784
+Dest0.Conn=1
+Dest1BlockID=1513370890
+Dest1.Conn=1
+Dest2BlockID=1513370885
+Dest2.Conn=1
+AlphaMatch=1
+MatchAllChars=0
+GetRecordCount=0
+MatchType=1
+MatchField=Username
+MatchData=%GetName.Digits%
+ODBCtable=Subscriber_Information
+Filter=
+UseGlobalBookmark=0
+DBType=1
+RecSetType=0
+ODBCConnect=ODBC;DSN=SUBSCR;DBQ=T:\VOICEMAIL\VBVOICE-CSHARP-VOICEMAIL\VOICEMAIL\BIN\Debug\Subscriber.mdb;DriverId=25;FIL=MS Access;MaxBufferSize=2048;PageTimeout=5;
+Filter=
+ReadOnly=1
+NumFields=3
+Field0=Extension
+Field1=Mailbox
+Field2=Username
+ReadOnly=1
+</value>
+  </data>
+  <data name="GetName.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=2
+EntryGreeting.NumPhrase=3
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=please enter the first few letters of the surname of the person you wish to speak to. Use the digit 1 for the letters Q and Z.
+EntryGreeting.Phrase0.Type=262242
+EntryGreeting.Phrase0.DataExtra= 
+EntryGreeting.Phrase1.File=VOICMAIL.VAP
+EntryGreeting.Phrase1.Data=or to exit press
+EntryGreeting.Phrase1.Type=262184
+EntryGreeting.Phrase1.DataExtra= 
+EntryGreeting.Phrase2.File=vbvoice30.vap
+EntryGreeting.Phrase2.Data=pound
+EntryGreeting.Phrase2.Type=262432
+EntryGreeting.Phrase2.DataExtra= 
+HintGreeting.NumPhrase=0
+NumConditions=1
+Condition0.Name=AnyChars
+Condition0.Data=$
+Condition0.UseVB=0
+Condition0.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=2090
+_ExtentY=2011
+Pos_X=1720
+Pos_Y=53710
+Pos_XP=65
+Pos_YP=30
+ControlName=GetName
+BlockId=1513370592
+FramePage=1
+ContainerType=5
+NumNodes=1
+Dest0BlockID=1513370776
+Dest0.Conn=1
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=0
+MaxSil=4
+TermDtmf=4096
+RetryOnSilence=0
+useDefaultError=1
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="TimeRoute.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+NumConditions=3
+Condition0.Name=AM
+Condition0.Data=08:01 09:00 XXXXXXX
+Condition0.UseVB=0
+Condition0.Data2=
+Condition1.Name=Lunch
+Condition1.Data=09:00 13:00 XXXXXXX
+Condition1.UseVB=0
+Condition1.Data2=
+Condition2.Name=PM
+Condition2.Data=13:00 17:00 XXXXXXX
+Condition2.UseVB=0
+Condition2.Data2=
+_ExtentX=1720
+_ExtentY=2514
+Pos_X=9790
+Pos_Y=57282
+Pos_XP=370
+Pos_YP=165
+ControlName=TimeRoute
+BlockId=1513370467
+FramePage=0
+ContainerType=5
+NumNodes=4
+Dest0BlockID=1513370962
+Dest1BlockID=1513606181
+Dest2BlockID=1513370962
+Dest3BlockID=1513606181
+</value>
+  </data>
+  <data name="SetReception.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+NumConditions=1
+Condition0.Name=0
+Condition0.Data=
+Condition0.UseVB=1
+Condition0.Data2=
+_ExtentX=1984
+_ExtentY=2011
+Pos_X=13414
+Pos_Y=59293
+Pos_XP=507
+Pos_YP=241
+ControlName=SetReception
+BlockId=1513370396
+FramePage=0
+ContainerType=5
+NumNodes=1
+Dest0BlockID=1513370388
+Dest0.Conn=1
+</value>
+  </data>
+  <data name="ValidateXfer.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+_ExtentX=1931
+_ExtentY=2117
+Pos_X=3201
+Pos_Y=58790
+Pos_XP=121
+Pos_YP=222
+ControlName=ValidateXfer
+BlockId=1513370388
+FramePage=0
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513370467
+Dest0.Conn=1
+Dest1BlockID=1513370232
+Dest1.Conn=1
+Dest1.DestNode=1
+Dest2BlockID=1513370232
+Dest2.Conn=1
+Dest2.DestNode=1
+AlphaMatch=0
+MatchAllChars=1
+GetRecordCount=0
+MatchType=0
+MatchField=
+MatchData=
+ODBCtable=Subscriber_Information
+Filter=WHERE Extension = '%MainMenu.Digits%'
+UseGlobalBookmark=0
+DBType=1
+RecSetType=0
+ODBCConnect=ODBC;DSN=SUBSCR;DBQ=T:\VOICEMAIL\VBVOICE-CSHARP-VOICEMAIL\VOICEMAIL\BIN\Debug\Subscriber.mdb;DriverId=25;FIL=MS Access;MaxBufferSize=2048;PageTimeout=5;
+Filter=WHERE Extension = '%MainMenu.Digits%'
+ReadOnly=1
+NumFields=2
+Field0=Extension
+Field1=Mailbox
+ReadOnly=1
+</value>
+  </data>
+  <data name="MainMenu.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=3
+EntryGreeting.NumPhrase=2
+EntryGreeting.Phrase0.File=VOICMAIL.VAP
+EntryGreeting.Phrase0.Data=please enter the box number
+EntryGreeting.Phrase0.Type=262230
+EntryGreeting.Phrase0.DataExtra= 
+EntryGreeting.Phrase1.File=VOICMAIL.VAP
+EntryGreeting.Phrase1.Data=or to speak to an operator press 0
+EntryGreeting.Phrase1.Type=262174
+EntryGreeting.Phrase1.DataExtra= 
+HintGreeting.NumPhrase=0
+ClearDigits=0
+NumConditions=4
+Condition0.Name=Extension
+Condition0.Data=100-299
+Condition0.UseVB=0
+Condition0.Data2=
+Condition1.Name=Subscriber(#)
+Condition1.Data=#
+Condition1.UseVB=0
+Condition1.Data2=
+Condition2.Name=Dir *
+Condition2.Data=*
+Condition2.UseVB=0
+Condition2.Data2=
+Condition3.Name=Operator(0)
+Condition3.Data=0
+Condition3.UseVB=0
+Condition3.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=2566
+_ExtentY=3307
+Pos_X=5900
+Pos_Y=54028
+Pos_XP=223
+Pos_YP=42
+ControlName=MainMenu
+BlockId=1513370232
+FramePage=0
+ContainerType=5
+NumNodes=6
+Dest0BlockID=0
+Dest1BlockID=1513370396
+Dest1.Conn=1
+Dest2BlockID=1513370388
+Dest2.Conn=1
+Dest3BlockID=1513606565
+Dest4BlockID=1513370592
+Dest5BlockID=1513370396
+Dest5.Conn=1
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=262444
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=3
+MaxSil=3
+TermDtmf=0
+RetryOnSilence=-10488
+useDefaultError=0
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="Greeting1.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.TermOnDTMF=0
+EntryGreeting.NumPhrase=1
+EntryGreeting.Phrase0.File=
+EntryGreeting.Phrase0.Data=
+EntryGreeting.Phrase0.Type=131083
+EntryGreeting.Phrase0.DataExtra=*
+HintGreeting.NumPhrase=0
+_ExtentX=1852
+_ExtentY=1720
+Pos_X=2672
+Pos_Y=54028
+Pos_XP=101
+Pos_YP=42
+ControlName=Greeting1
+BlockId=1513370204
+FramePage=0
+ContainerType=5
+NumNodes=2
+Dest0BlockID=1513370232
+Dest0.Conn=1
+Dest1BlockID=0
+FastForwardDigit=0
+RewindDigit=0
+PauseDigit=0
+FastFwdSecs=1
+RewindSecs=2
+PauseSecs=20
+LouderDigit=0
+SofterDigit=0
+TerminateOnSpeech=0
+MinSpeechTermTime=50
+</value>
+  </data>
+  <data name="NewCall.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+_ExtentX=1561
+_ExtentY=2910
+Pos_X=291
+Pos_Y=53763
+Pos_XP=11
+Pos_YP=32
+ControlName=NewCall
+BlockId=1513370139
+FramePage=0
+ContainerType=5
+NumNodes=5
+Dest0BlockID=0
+Dest1BlockID=1513370204
+Dest1.Conn=1
+Dest2BlockID=0
+Dest3BlockID=0
+Dest4BlockID=0
+DelayTime=5
+Mode=2
+LinesInGroup=1
+Mode=2
+MobileAppName=
+</value>
+  </data>
+  <data name="vbvFrame1.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+LanguageVer=1
+ContainerType=5
+ControlName=vbvFrame1
+_ExtentX=18468
+_ExtentY=9155
+_StockProps=2
+PageList.NumPage=6
+PageList.Page0.Name=MainMenu
+PageList.Page0.X=10
+PageList.Page0.Y=20
+PageList.Page1.Name=Directory
+PageList.Page1.X=10
+PageList.Page1.Y=30
+PageList.Page2.Name=Transfer
+PageList.Page2.X=30
+PageList.Page2.Y=50
+PageList.Page3.Name=Subscriber
+PageList.Page3.X=50
+PageList.Page3.Y=70
+PageList.Page4.Name=SetOptions
+PageList.Page4.X=70
+PageList.Page4.Y=90
+PageList.Page5.Name=Password
+PageList.Page5.X=90
+PageList.Page5.Y=110
+CurrPage=4
+NumFields=0
+Playformat=0
+LogDir=C:\ProgramData\Pronexus\VBVoice\Logs\
+TimeFormat=0
+DateOrder=0
+LanguageId=0
+NumControls=36
+Control0=5,DonePW
+Control1=5,PWChanged
+Control2=5,SetNewPW
+Control3=5,ReenterPW
+Control4=5,PWNoChg
+Control5=5,GetNewPW
+Control6=4,RecNewGreet
+Control7=4,GreetOpts
+Control8=4,RecNewName
+Control9=3,playMsgs1
+Control10=3,SubscriberMenu
+Control11=3,CheckPW
+Control12=3,CheckBox
+Control13=4,NameOpts
+Control14=3,GetMailbox
+Control15=2,WaitBusy
+Control16=2,TakeMessage
+Control17=2,AskHold
+Control18=2,Goodbye
+Control19=2,NoGoodBye
+Control20=2,Flash
+Control21=2,Announce
+Control22=2,TransferCall
+Control23=2,CallerName
+Control24=1,NoMoreNames
+Control25=1,NoNames
+Control26=1,SayExtension
+Control27=1,CheckName
+Control28=1,FindName
+Control29=1,GetName
+Control30=0,TimeRoute
+Control31=0,SetReception
+Control32=0,ValidateXfer
+Control33=0,MainMenu
+Control34=0,Greeting1
+Control35=0,NewCall
+LangProgID=Pronexus.Language.1
+TTSSpeaker=
+ASREngine=
+NuancePackages=
+ConfigFile=
+RSTDictionary=
+UsingTTS=0
+UsingASR=0
+IsASlave=0
+SlaveName=
+TypeOfRecEngine=5
+</value>
+  </data>
+</root>

@@ -1,0 +1,828 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Flash.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+NumConditions=0
+_ExtentX=2408
+_ExtentY=1720
+Pos_X=10530
+Pos_Y=2884
+Pos_XP=0
+Pos_YP=0
+ControlName=Flash
+BlockId=1513371170
+FramePage=2
+ContainerType=5
+NumNodes=2
+Dest0BlockID=0
+Dest1BlockID=0
+CustomCPL=
+DialNumber=!,
+WaitForDialtone=1
+DetectAnsMachine=0
+DetectFaxTone=0
+DoTransfer=0
+UseDatabase=0
+DataFind=ValidateXfer
+</value>
+  </data>
+  <data name="Announce.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=0
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+NumConditions=1
+Condition0.Name=AnyKey
+Condition0.Data=$
+Condition0.UseVB=0
+Condition0.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=1852
+_ExtentY=2117
+Pos_X=6509
+Pos_Y=1376
+Pos_XP=0
+Pos_YP=0
+ControlName=Announce
+BlockId=1513371104
+FramePage=2
+ContainerType=5
+NumNodes=3
+Dest0BlockID=0
+Dest1BlockID=0
+Dest2BlockID=0
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=327679
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=0
+MaxSil=2
+TermDtmf=0
+RetryOnSilence=0
+useDefaultError=0
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="TransferCall.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+NumConditions=0
+_ExtentX=2408
+_ExtentY=3704
+Pos_X=2593
+Pos_Y=3863
+Pos_XP=0
+Pos_YP=0
+ControlName=TransferCall
+BlockId=1513371061
+FramePage=2
+ContainerType=5
+NumNodes=7
+Dest0BlockID=0
+Dest1BlockID=1513371104
+Dest1.Conn=1
+Dest2BlockID=0
+Dest3BlockID=0
+Dest4BlockID=0
+Dest5BlockID=0
+Dest6BlockID=0
+CustomCPL=
+DialNumber=S%ValidateXfer.Extension%
+WaitForDialtone=1
+DetectAnsMachine=0
+DetectFaxTone=0
+DoTransfer=1
+UseDatabase=0
+DataFind=
+</value>
+  </data>
+  <data name="CallerName.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=1
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+_ExtentX=1693
+_ExtentY=2117
+Pos_X=1138
+Pos_Y=953
+Pos_XP=0
+Pos_YP=0
+ControlName=CallerName
+BlockId=1513370962
+FramePage=2
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513371061
+Dest0.Conn=1
+Dest1BlockID=1513371061
+Dest1.Conn=1
+Dest2BlockID=1513371061
+Dest2.Conn=1
+MinTime=1
+MaxTime=5
+MaxSil=4
+AppendFile=0
+SilenceGreeting.NumPhrase=0
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=327679
+InvalidGreeting.Phrase0.DataExtra= 
+OptionsGreeting.NumPhrase=8
+OptionsGreeting.Phrase0.File=record.vap
+OptionsGreeting.Phrase0.Data=to send this message press
+OptionsGreeting.Phrase0.Type=327679
+OptionsGreeting.Phrase0.DataExtra= 
+OptionsGreeting.Phrase1.File=1
+OptionsGreeting.Phrase1.Data=
+OptionsGreeting.Phrase1.Type=131077
+OptionsGreeting.Phrase1.DataExtra= 
+OptionsGreeting.Phrase2.File=record.vap
+OptionsGreeting.Phrase2.Data=to rerecord the message from the beginning press
+OptionsGreeting.Phrase2.Type=327679
+OptionsGreeting.Phrase2.DataExtra= 
+OptionsGreeting.Phrase3.File=2
+OptionsGreeting.Phrase3.Data=
+OptionsGreeting.Phrase3.Type=131077
+OptionsGreeting.Phrase3.DataExtra= 
+OptionsGreeting.Phrase4.File=record.vap
+OptionsGreeting.Phrase4.Data=to review the message press
+OptionsGreeting.Phrase4.Type=327679
+OptionsGreeting.Phrase4.DataExtra= 
+OptionsGreeting.Phrase5.File=3
+OptionsGreeting.Phrase5.Data=
+OptionsGreeting.Phrase5.Type=131077
+OptionsGreeting.Phrase5.DataExtra= 
+OptionsGreeting.Phrase6.File=record.vap
+OptionsGreeting.Phrase6.Data=or to cancel the message press
+OptionsGreeting.Phrase6.Type=327679
+OptionsGreeting.Phrase6.DataExtra= 
+OptionsGreeting.Phrase7.File=4
+OptionsGreeting.Phrase7.Data=
+OptionsGreeting.Phrase7.Type=131077
+OptionsGreeting.Phrase7.DataExtra= 
+CancelGreeting.NumPhrase=1
+CancelGreeting.Phrase0.File=record.vap
+CancelGreeting.Phrase0.Data=message cancelled
+CancelGreeting.Phrase0.Type=327679
+CancelGreeting.Phrase0.DataExtra= 
+MsgSentGreeting.NumPhrase=1
+MsgSentGreeting.Phrase0.File=record.vap
+MsgSentGreeting.Phrase0.Data=your message has been sent
+MsgSentGreeting.Phrase0.Type=327679
+MsgSentGreeting.Phrase0.DataExtra= 
+RecordOKGreeting.NumPhrase=1
+RecordOKGreeting.Phrase0.File=record.vap
+RecordOKGreeting.Phrase0.Data=your message has been recorded
+RecordOKGreeting.Phrase0.Type=327679
+RecordOKGreeting.Phrase0.DataExtra= 
+AppendDigit=1024
+TermDigit=2
+RerecordDigit=4
+CancelDigit=16
+ReviewDigit=8
+Filename=rname%channel%.wav
+BeepBefore=1
+CompressSilence=0
+IgnoreDtmf=0
+RecordFormat=-1
+FileData=
+PauseDigit=0
+PauseSecs=20
+PauseGreeting.NumPhrase=0
+</value>
+  </data>
+  <data name="NoMoreNames.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.TermOnDTMF=0
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+_ExtentX=2143
+_ExtentY=1720
+Pos_X=7832
+Pos_Y=59584
+Pos_XP=296
+Pos_YP=252
+ControlName=NoMoreNames
+BlockId=1513370890
+FramePage=1
+ContainerType=5
+NumNodes=2
+Dest0BlockID=0
+Dest1BlockID=0
+FastForwardDigit=0
+RewindDigit=0
+PauseDigit=0
+FastFwdSecs=1
+RewindSecs=2
+PauseSecs=20
+LouderDigit=0
+SofterDigit=0
+TerminateOnSpeech=0
+MinSpeechTermTime=50
+</value>
+  </data>
+  <data name="NoNames.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.TermOnDTMF=0
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+_ExtentX=1852
+_ExtentY=1720
+Pos_X=7832
+Pos_Y=57229
+Pos_XP=296
+Pos_YP=163
+ControlName=NoNames
+BlockId=1513370885
+FramePage=1
+ContainerType=5
+NumNodes=2
+Dest0BlockID=0
+Dest1BlockID=0
+FastForwardDigit=0
+RewindDigit=0
+PauseDigit=0
+FastFwdSecs=1
+RewindSecs=2
+PauseSecs=20
+LouderDigit=0
+SofterDigit=0
+TerminateOnSpeech=0
+MinSpeechTermTime=50
+</value>
+  </data>
+  <data name="SayExtension.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.TermOnDTMF=0
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+_ExtentX=1958
+_ExtentY=1720
+Pos_X=11298
+Pos_Y=54663
+Pos_XP=427
+Pos_YP=66
+ControlName=SayExtension
+BlockId=1513370848
+FramePage=1
+ContainerType=5
+NumNodes=2
+Dest0BlockID=0
+Dest1BlockID=0
+FastForwardDigit=0
+RewindDigit=0
+PauseDigit=0
+FastFwdSecs=1
+RewindSecs=2
+PauseSecs=20
+LouderDigit=0
+SofterDigit=0
+TerminateOnSpeech=0
+MinSpeechTermTime=50
+</value>
+  </data>
+  <data name="CheckName.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=0
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+NumConditions=1
+Condition0.Name=1
+Condition0.Data=1
+Condition0.UseVB=0
+Condition0.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=1826
+_ExtentY=2117
+Pos_X=7832
+Pos_Y=54451
+Pos_XP=296
+Pos_YP=58
+ControlName=CheckName
+BlockId=1513370784
+FramePage=1
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513370776
+Dest0.Conn=1
+Dest0.DestNode=1
+Dest1BlockID=1513370776
+Dest1.Conn=1
+Dest1.DestNode=1
+Dest2BlockID=1513370848
+Dest2.Conn=1
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=327679
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=0
+MaxSil=5
+TermDtmf=0
+RetryOnSilence=0
+useDefaultError=0
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="FindName.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+_ExtentX=1931
+_ExtentY=2117
+Pos_X=5080
+Pos_Y=54451
+Pos_XP=192
+Pos_YP=58
+ControlName=FindName
+BlockId=1513370776
+FramePage=1
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513370784
+Dest0.Conn=1
+Dest1BlockID=1513370890
+Dest1.Conn=1
+Dest2BlockID=1513370885
+Dest2.Conn=1
+AlphaMatch=0
+MatchAllChars=1
+GetRecordCount=0
+MatchType=0
+MatchField=
+MatchData=
+ODBCtable=
+Filter=
+UseGlobalBookmark=0
+DBType=1
+RecSetType=0
+ODBCConnect=
+Filter=
+ReadOnly=1
+NumFields=0
+ReadOnly=1
+</value>
+  </data>
+  <data name="GetName.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=2
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+NumConditions=2
+Condition0.Name=#
+Condition0.Data=0
+Condition0.UseVB=1
+Condition0.Data2=
+Condition1.Name=AnyChars
+Condition1.Data=$
+Condition1.UseVB=0
+Condition1.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=2090
+_ExtentY=2011
+Pos_X=1720
+Pos_Y=53710
+Pos_XP=65
+Pos_YP=30
+ControlName=GetName
+BlockId=1513370592
+FramePage=1
+ContainerType=5
+NumNodes=2
+Dest0BlockID=0
+Dest1BlockID=1513370776
+Dest1.Conn=1
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=327679
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=0
+MaxSil=4
+TermDtmf=4096
+RetryOnSilence=0
+useDefaultError=1
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="TimeRoute.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+NumConditions=3
+Condition0.Name=AM
+Condition0.Data=08:00 12:00 XXXXXXX
+Condition0.UseVB=0
+Condition0.Data2=
+Condition1.Name=Lunch
+Condition1.Data=12:00 13:00 XXXXXXX
+Condition1.UseVB=0
+Condition1.Data2=
+Condition2.Name=PM
+Condition2.Data=13:00 17:00 XXXXXXX
+Condition2.UseVB=0
+Condition2.Data2=
+_ExtentX=1720
+_ExtentY=2514
+Pos_X=8678
+Pos_Y=58790
+Pos_XP=328
+Pos_YP=222
+ControlName=TimeRoute
+BlockId=1513370467
+FramePage=0
+ContainerType=5
+NumNodes=4
+Dest0BlockID=0
+Dest1BlockID=0
+Dest2BlockID=0
+Dest3BlockID=0
+</value>
+  </data>
+  <data name="SetReception.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+NumConditions=1
+Condition0.Name=0
+Condition0.Data=
+Condition0.UseVB=1
+Condition0.Data2=
+_ExtentX=1984
+_ExtentY=2011
+Pos_X=12224
+Pos_Y=55483
+Pos_XP=462
+Pos_YP=97
+ControlName=SetReception
+BlockId=1513370396
+FramePage=0
+ContainerType=5
+NumNodes=1
+Dest0BlockID=0
+</value>
+  </data>
+  <data name="ValidateXfer.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+_ExtentX=1931
+_ExtentY=2117
+Pos_X=3201
+Pos_Y=58790
+Pos_XP=121
+Pos_YP=222
+ControlName=ValidateXfer
+BlockId=1513370388
+FramePage=0
+ContainerType=5
+NumNodes=3
+Dest0BlockID=1513370467
+Dest0.Conn=1
+Dest1BlockID=1513370232
+Dest1.Conn=1
+Dest1.DestNode=1
+Dest2BlockID=1513370232
+Dest2.Conn=1
+Dest2.DestNode=1
+AlphaMatch=0
+MatchAllChars=1
+GetRecordCount=0
+MatchType=0
+MatchField=
+MatchData=
+ODBCtable=
+Filter=
+UseGlobalBookmark=0
+DBType=1
+RecSetType=0
+ODBCConnect=
+Filter=
+ReadOnly=1
+NumFields=0
+ReadOnly=1
+</value>
+  </data>
+  <data name="MainMenu.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+maxRetries=3
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+ClearDigits=0
+NumConditions=4
+Condition0.Name=Extension
+Condition0.Data=100-299
+Condition0.UseVB=0
+Condition0.Data2=
+Condition1.Name=Subscriber(#)
+Condition1.Data=#
+Condition1.UseVB=0
+Condition1.Data2=
+Condition2.Name=Dir *
+Condition2.Data=*
+Condition2.UseVB=0
+Condition2.Data2=
+Condition3.Name=Operator(0)
+Condition3.Data=0
+Condition3.UseVB=0
+Condition3.Data2=
+IUseMenuMode=0
+NumMenuRoutes=0
+_ExtentX=2566
+_ExtentY=3307
+Pos_X=5900
+Pos_Y=54028
+Pos_XP=223
+Pos_YP=42
+ControlName=MainMenu
+BlockId=1513370232
+FramePage=0
+ContainerType=5
+NumNodes=6
+Dest0BlockID=0
+Dest1BlockID=1513370396
+Dest1.Conn=1
+Dest2BlockID=1513370388
+Dest2.Conn=1
+Dest3BlockID=0
+Dest4BlockID=0
+Dest5BlockID=1513370396
+Dest5.Conn=1
+InvalidGreeting.NumPhrase=1
+InvalidGreeting.Phrase0.File=vbvoice30.vap
+InvalidGreeting.Phrase0.Data=that was not a valid entry
+InvalidGreeting.Phrase0.Type=327679
+InvalidGreeting.Phrase0.DataExtra= 
+SilenceGreeting.NumPhrase=0
+MaxKeys=3
+MaxSil=3
+TermDtmf=0
+RetryOnSilence=-10488
+useDefaultError=0
+DisableHelp=1
+MaskLogDigit=0
+</value>
+  </data>
+  <data name="Greeting1.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+EntryGreeting.TermOnDTMF=0
+EntryGreeting.NumPhrase=0
+HintGreeting.NumPhrase=0
+_ExtentX=1852
+_ExtentY=1720
+Pos_X=2672
+Pos_Y=54028
+Pos_XP=101
+Pos_YP=42
+ControlName=Greeting1
+BlockId=1513370204
+FramePage=0
+ContainerType=5
+NumNodes=2
+Dest0BlockID=1513370232
+Dest0.Conn=1
+Dest1BlockID=0
+FastForwardDigit=0
+RewindDigit=0
+PauseDigit=0
+FastFwdSecs=1
+RewindSecs=2
+PauseSecs=20
+LouderDigit=0
+SofterDigit=0
+TerminateOnSpeech=0
+MinSpeechTermTime=50
+</value>
+  </data>
+  <data name="NewCall.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+_ExtentX=1561
+_ExtentY=2910
+Pos_X=291
+Pos_Y=53763
+Pos_XP=11
+Pos_YP=32
+ControlName=NewCall
+BlockId=1513370139
+FramePage=0
+ContainerType=5
+NumNodes=5
+Dest0BlockID=0
+Dest1BlockID=1513370204
+Dest1.Conn=1
+Dest2BlockID=0
+Dest3BlockID=0
+Dest4BlockID=0
+DelayTime=5
+Mode=2
+LinesInGroup=1
+Mode=2
+MobileAppName=
+</value>
+  </data>
+  <data name="vbvFrame1.PropertyBag" xml:space="preserve">
+    <value>
+_Version=655362
+LanguageVer=1
+ContainerType=5
+ControlName=vbvFrame1
+_ExtentX=18468
+_ExtentY=9155
+_StockProps=2
+PageList.NumPage=6
+PageList.Page0.Name=MainMenu
+PageList.Page0.X=10
+PageList.Page0.Y=20
+PageList.Page1.Name=Directory
+PageList.Page1.X=10
+PageList.Page1.Y=30
+PageList.Page2.Name=Transfer
+PageList.Page2.X=30
+PageList.Page2.Y=50
+PageList.Page3.Name=Subscriber
+PageList.Page3.X=50
+PageList.Page3.Y=70
+PageList.Page4.Name=SetOptions
+PageList.Page4.X=70
+PageList.Page4.Y=90
+PageList.Page5.Name=Password
+PageList.Page5.X=90
+PageList.Page5.Y=110
+CurrPage=2
+NumFields=0
+Playformat=0
+TimeFormat=0
+DateOrder=0
+LanguageId=0
+NumControls=16
+Control0=0,NewCall
+Control1=0,Greeting1
+Control2=0,MainMenu
+Control3=0,ValidateXfer
+Control4=0,SetReception
+Control5=0,TimeRoute
+Control6=1,GetName
+Control7=1,FindName
+Control8=1,CheckName
+Control9=1,SayExtension
+Control10=1,NoNames
+Control11=1,NoMoreNames
+Control12=2,CallerName
+Control13=2,TransferCall
+Control14=2,Announce
+Control15=2,Flash
+LangProgID=Pronexus.Language.1
+TTSSpeaker=
+ASREngine=
+NuancePackages=
+ConfigFile=
+RSTDictionary=
+UsingTTS=0
+UsingASR=0
+IsASlave=0
+SlaveName=
+TypeOfRecEngine=5
+</value>
+  </data>
+</root>
